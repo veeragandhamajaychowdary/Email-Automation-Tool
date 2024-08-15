@@ -24,7 +24,7 @@ Steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/email-automation-tool.git
+git clone(https://github.com/veeragandhamajaychowdary/Email-Automation-Tool.git)
 Navigate to the project directory:
 bash
 Copy code
